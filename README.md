@@ -19,6 +19,7 @@ Klassversionen av Dungeons of Doom!
 
 # Work in progress
 Jean-Christophe - Player attributes
+
 Jens - All about monsters
 
 # WPF Migration
